@@ -254,8 +254,8 @@ var score = {
             ctx.fillText(this.value, 235, 186)
             ctx.strokeText(this.value, 235, 186)
 
-            ctx.fillText(this.best, 235, 228)
-            ctx.strokeText(this.best, 235, 228)
+            ctx.fillText(this.best, 236, 228)
+            ctx.strokeText(this.best, 236, 228)
         }
     }
 }
