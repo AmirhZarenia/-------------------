@@ -251,11 +251,11 @@ var score = {
         } else if (state.current == state.over) {
             ctx.font = "25px IMPACT";
 
-            ctx.fillText(this.value, 275, 186)
-            ctx.strokeText(this.value, 275, 186)
+            ctx.fillText(this.value, 235, 186)
+            ctx.strokeText(this.value, 235, 186)
 
-            ctx.fillText(this.best, 275, 228)
-            ctx.strokeText(this.best, 275, 228)
+            ctx.fillText(this.best, 235, 228)
+            ctx.strokeText(this.best, 235, 228)
         }
     }
 }
